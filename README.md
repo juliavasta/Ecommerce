@@ -12,13 +12,13 @@ I created an Ecommerce Web App with ReactJS.
 * Fetch API
 * Context
 * Authentication
-* Emotion - for styling
 * Search bar
 * Data Filtering
 * Select
 * Sorting data
 * Routing and Dynamic Routing - React Router
 * SOLID Principles
+* Emotion - for styling
 * Responsive design
 
 # Some improvements to implement:
